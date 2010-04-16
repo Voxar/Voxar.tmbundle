@@ -4,6 +4,11 @@
 <dict>
 	<key>name</key>
 	<string>Voxar’s Bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>E840D271-CB9A-45FC-9DF8-D5F80ED9423E</string>
+		<string>26C496F1-F34F-4BF9-81BD-679F86AC15D9</string>
+	</array>
 	<key>uuid</key>
 	<string>49FF78ED-F870-4CDB-A242-417ACF70F414</string>
 </dict>
